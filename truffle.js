@@ -7,10 +7,10 @@ networks: {
     network_id: "*" // match any network
   },
   development2: {
-    host: "",
-    port: 20010,
+    host: "107.5.111.63",
+    port: 30308,
     network_id: "*",
-    gasPrice: 0
+    gasPrice: 230000
   }
 }
 // to customize your Truffle configuration!
