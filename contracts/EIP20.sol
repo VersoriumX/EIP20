@@ -2,7 +2,7 @@
 Implements EIP20 token standard: https://github.com/ethereum/EIPs/issues/20
 .*/
 
-
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.4.18;
 
 import "./EIP20Interface.sol";
